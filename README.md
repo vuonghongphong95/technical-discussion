@@ -11,4 +11,4 @@ This is a demo repo for sharing ideas arround comunication
 
 ### Colab Example
 
-this is the [notebook]https://github.com/vuonghongphong95/technical-discussion/blob/d23aea330d7d7cd712ad67f77ca5a7f2eae16a1c/technical_docs.ipynb
+this is the [notebook](https://github.com/vuonghongphong95/technical-discussion/blob/d23aea330d7d7cd712ad67f77ca5a7f2eae16a1c/technical_docs.ipynb)
