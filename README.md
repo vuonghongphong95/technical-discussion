@@ -15,4 +15,4 @@ this is the [notebook](https://github.com/vuonghongphong95/technical-discussion/
 
 ### Images
 
-Images[https://github.com/vuonghongphong95/technical-discussion/issues/1#issue-1070401367]
+[Images](https://github.com/vuonghongphong95/technical-discussion/issues/1#issue-1070401367)
